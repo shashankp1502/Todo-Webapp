@@ -10,3 +10,6 @@ Steps to Run Todo-Webapp
 4. Run npm install inside web and npm start afterward.
 5. Client will run - localhost:4200 
 6. Server will start - localhost:8080 
+
+
+Note: JAVA 8 and Maven - 3.5 and above required to run this project.
