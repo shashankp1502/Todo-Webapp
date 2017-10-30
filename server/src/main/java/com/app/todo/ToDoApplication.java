@@ -9,7 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class ToDoApplication {
 
 	public static void main(String[] args) {
-		//ApplicationContext context = new ClassPathXmlApplicationContext("TodoConfiguration.xml");
+	
 		SpringApplication.run(ToDoApplication.class, args);
 	}
 }
